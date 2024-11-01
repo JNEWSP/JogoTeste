@@ -1,0 +1,145 @@
+{
+  "layers": [
+    {
+      "name": "Track Solid 1",
+      "type": "av",
+      "index": 1,
+      "parentIndex": null,
+      "inFrame": 0,
+      "outFrame": 390,
+      "enabled": true,
+      "position": {
+        "numDimensions": 3,
+        "channels": [
+          {
+            "isKeyframed": false,
+            "value": 45.909355520145
+          },
+          {
+            "isKeyframed": false,
+            "value": -0.06551298688299
+          },
+          {
+            "isKeyframed": false,
+            "value": 301.80267574742
+          }
+        ]
+      },
+      "rotationX": {
+        "numDimensions": 1,
+        "channels": [
+          {
+            "isKeyframed": false,
+            "value": 0
+          }
+        ]
+      },
+      "rotationY": {
+        "numDimensions": 1,
+        "channels": [
+          {
+            "isKeyframed": false,
+            "value": 0
+          }
+        ]
+      },
+      "rotationZ": {
+        "numDimensions": 1,
+        "channels": [
+          {
+            "isKeyframed": false,
+            "value": 0
+          }
+        ]
+      },
+      "orientation": {
+        "numDimensions": 3,
+        "channels": [
+          {
+            "isKeyframed": false,
+            "value": 269.955075842191
+          },
+          {
+            "isKeyframed": false,
+            "value": 0.07473039821631
+          },
+          {
+            "isKeyframed": false,
+            "value": 358.653888243851
+          }
+        ]
+      },
+      "source": 0,
+      "anchorPoint": {
+        "numDimensions": 3,
+        "channels": [
+          {
+            "isKeyframed": false,
+            "value": 960
+          },
+          {
+            "isKeyframed": false,
+            "value": 960
+          },
+          {
+            "isKeyframed": false,
+            "value": 0
+          }
+        ]
+      },
+      "scale": {
+        "numDimensions": 3,
+        "channels": [
+          {
+            "isKeyframed": false,
+            "value": 100
+          },
+          {
+            "isKeyframed": false,
+            "value": 97.3079380905025
+          },
+          {
+            "isKeyframed": false,
+            "value": 100
+          }
+        ]
+      },
+      "opacity": {
+        "numDimensions": 1,
+        "channels": [
+          {
+            "isKeyframed": false,
+            "value": 100
+          }
+        ]
+      },
+      "nullLayer": false
+    }
+  ],
+  "sources": [
+    {
+      "height": 1920,
+      "width": 1920,
+      "name": "Track Solid 1",
+      "type": "solid",
+      "color": [
+        0.20000000298023,
+        0.63137257099152,
+        1
+      ]
+    }
+  ],
+  "comp": {
+    "width": 1080,
+    "height": 1920,
+    "name": "Comp 1",
+    "pixelAspect": 1,
+    "frameRate": 30,
+    "workArea": [
+      0,
+      13
+    ]
+  },
+  "transformsBaked": false,
+  "version": 3
+}
